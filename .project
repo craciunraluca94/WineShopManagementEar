@@ -5,7 +5,7 @@
 	<projects>
 		<project>WineShopManagementEjb</project>
 		<project>WineShopManagementEjbClient</project>
-		<project>WineShopWebProject</project>
+		<project>WineShopWebProjectClient</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
